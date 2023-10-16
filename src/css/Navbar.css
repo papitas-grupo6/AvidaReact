@@ -1,0 +1,9 @@
+.custom-navbar {
+  background-color: var(
+    --verde
+  ); /* Aplica el color de fondo verde desde la variable CSS */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
